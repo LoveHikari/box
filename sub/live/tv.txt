@@ -3497,9 +3497,14 @@ Girls Gone Wild,https://15799848.s21v.faiusr.com/58/ABUIABA6GAAgjd2w4gUou--ljQE.
 浙江国际,http://yd-m-l.cztv.com/channels/lantian/channel010/1080p.m3u8?zzhed
 浙江国际,http://hw-m-l.cztv.com/channels/lantian/channel10/720p.m3u8?zzhed
 浙江国际,http://hw-m-l.cztv.com/channels/lantian/channel10/360p.m3u8?zzhed
+之江纪录,http://hw-m-l.cztv.com/channels/lantian/channel12/1080p.m3u8
 数码时代,http://hw-m-l.cztv.com/channels/lantian/channel012/1080p.m3u8?zzhed
 数码时代,http://yd-m-l.cztv.com/channels/lantian/channel012/1080p.m3u8?zzhed
 数码时代,http://hw-m-l.cztv.com/channels/lantian/channel12/360p.m3u8?zzhed
+HTV-2明珠,http://183.129.242.178:3333/tsfile/live/1016_1.m3u8
+HTV-3生活,http://183.129.242.178:3333/tsfile/live/1017_1.m3u8
+HTV-4影视,http://183.129.242.178:3333/tsfile/live/1018_1.m3u8
+HTV-5青少.体育,http://183.129.242.178:3333/tsfile/live/1019_1.m3u8
 绍兴新闻综合,http://live.shaoxing.com.cn/video/s10001-sxhb/index.m3u8?zzhed
 绍兴新闻综合,http://live.shaoxing.com.cn/video/s10001-sxtv1/index.m3u8?zzhed
 绍兴公共频道,http://live.shaoxing.com.cn/video/s10001-sxtv2/index.m3u8?zzhed
