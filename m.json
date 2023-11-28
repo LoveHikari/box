@@ -1,7 +1,7 @@
 //以下内容为互联网收集，只为自用…… https://raw.iqiq.io/liu673cn/box/main/m.json
 {
 "wallpaper":"https://picsum.photos/1280/720/?blur=10",
-"spider": "https://agit.ai/65012833/Jar/raw/branch/master/zy2.jar;md5;3a477c0b071fe556277335fb2214d0c9",//第3包
+"spider": ".sub/jar/zy2.jar;md5;3a477c0b071fe556277335fb2214d0c9",//第3包
 "lives":[{"name":"live","type":0,"url":"./sub/live/tv.txt","playerType":1,"epg":"http://epg.112114.xyz/?ch={name}&date={date}","logo":"https://epg.112114.xyz/logo/{name}.png"}],
 "sites": [
 {"key":"drpy_js_豆瓣","name":"🌺【春盈天下】💑（👉永久免费,请勿付费购买谨防上当受骗）💑","type":3,"api":"http://ftp6587948.host121.Sanfengyun.cn/maojs/lib/drpy2.min.js","searchable":0,"quickSearch":0,"filterable":1,"ext":"http://ftp6587948.host121.Sanfengyun.cn/maojs/js/drpy.js"},
