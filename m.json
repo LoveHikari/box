@@ -1,8 +1,8 @@
 //以下内容为互联网收集，只为自用…… https://raw.iqiq.io/liu673cn/box/main/m.json
 {
 "wallpaper":"https://picsum.photos/1280/720/?blur=10",
-"spider": "/sub/jar/a620.jar;md5;09baf4a03d362d96f0fc14085c343191",
-"lives":[{"name":"live","type":0,"url":"/sub/live/tv.txt","playerType":1,"epg":"http://epg.112114.xyz/?ch={name}&date={date}","logo":"https://epg.112114.xyz/logo/{name}.png"}],
+"spider": "./sub/jar/a620.jar;md5;09baf4a03d362d96f0fc14085c343191",
+"lives":[{"name":"live","type":0,"url":"./sub/live/tv.txt","playerType":1,"epg":"http://epg.112114.xyz/?ch={name}&date={date}","logo":"https://epg.112114.xyz/logo/{name}.png"}],
 "sites": [
 {"key":"drpy_js_豆瓣","name":"🌺【春盈天下】💑（👉永久免费,请勿付费购买谨防上当受骗）💑","type":3,"api":"http://ftp6587948.host121.Sanfengyun.cn/maojs/lib/drpy2.min.js","searchable":0,"quickSearch":0,"filterable":1,"ext":"http://ftp6587948.host121.Sanfengyun.cn/maojs/js/drpy.js"},
 {"key":"AppYs_南瓜","name":"👉VIP┃专享","type":3,"playerType":2,"api":"https://agit.ai/Yemaozhi123/yemao/raw/branch/master/lib/drpy2.min.js","searchable":1,"quickSearch":1,"filterable":1,"ext":"https://gitcode.net/m0_73989217/ymz/-/raw/master/JS/%E5%8D%97%E7%93%9C.js"},
