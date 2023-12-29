@@ -66,12 +66,6 @@ KBS WORLD,https://kbsworld-ott.akamaized.net/hls/live/2002341/kbsworld/01.m3u8
 西班牙 中国环球,http://livees.cgtn.com/1000e/prog_index.m3u8
 
 💖｜央视,#genre#
-CCTV12,https://live.goodiptv.club/api/bestv.php?id=cctv12hd8m/8000000
-CCTV12,http://183.151.58.238:4022/rtp/233.50.201.123:5140
-CCTV14,http://39.134.24.166/dbiptv.sn.chinamobile.com/PLTV/88888888/224/3221226193/1.m3u8
-CCTV14,http://39.134.24.166/dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226193/index.m3u8
-CCTV14,http://183.151.58.238:4022/rtp/233.50.201.124:5140
-CETV-1,http://111.59.63.32:9901/tsfile/live/1024_1.m3u8
 CCTV1,http://39.134.24.162/dbiptv.sn.chinamobile.com/PLTV/88888888/224/3221225804/1.m3u8
 CCTV1,http://39.134.24.162/dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221225804/index.m3u8
 CCTV1,http://183.151.58.238:4022/rtp/233.50.201.118:5140
@@ -108,15 +102,16 @@ CCTV10,http://39.134.24.162/dbiptv.sn.chinamobile.com/PLTV/88888890/224/32212261
 CCTV10,http://183.151.58.238:4022/rtp/233.50.201.122:5140
 CCTV11,https://live.goodiptv.club/api/bestv.php?id=cctv11hd8m/8000000
 CCTV11,http://183.151.58.238:4022/rtp/233.50.201.11:5140
+CCTV12,https://live.goodiptv.club/api/bestv.php?id=cctv12hd8m/8000000
+CCTV12,http://183.151.58.238:4022/rtp/233.50.201.123:5140
 CCTV13,https://live.goodiptv.club/api/bestv.php?id=cctv13xwhd8m/8000000
 CCTV13,http://39.134.24.162/dbiptv.sn.chinamobile.com/PLTV/88888888/224/3221226233/1.m3u8
 CCTV13,http://39.134.24.162/dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226233/index.m3u8
 CCTV13,https://live-play.cctvnews.cctv.com/cctv/merge_cctv13_mhd.m3u8
 CCTV13,http://183.151.58.238:4022/rtp/233.50.201.246:5140
-CCTV5+,https://live.goodiptv.club/api/bestv.php?id=cctv5phd8m/8000000
-CCTV5+,http://39.134.24.166/dbiptv.sn.chinamobile.com/PLTV/88888888/224/3221225761/1.m3u8
-CCTV5+,http://39.134.24.162/dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221225761/index.m3u8
-CCTV5+,http://183.151.58.238:4022/rtp/233.50.201.220:5140
+CCTV14,http://39.134.24.166/dbiptv.sn.chinamobile.com/PLTV/88888888/224/3221226193/1.m3u8
+CCTV14,http://39.134.24.166/dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226193/index.m3u8
+CCTV14,http://183.151.58.238:4022/rtp/233.50.201.124:5140
 CCTV15,https://live.goodiptv.club/api/bestv.php?id=cctv15hd8m/8000000
 CCTV15,http://39.134.24.162/dbiptv.sn.chinamobile.com/PLTV/88888888/224/3221225785/1.m3u8
 CCTV15,http://39.134.24.162/dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221225785/index.m3u8
@@ -124,10 +119,14 @@ CCTV15,http://183.151.58.238:4022/rtp/233.50.201.15:5140
 CCTV16,http://39.134.24.162/dbiptv.sn.chinamobile.com/PLTV/88888888/224/3221226921/1.m3u8
 CCTV16,http://39.134.24.162/dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226921/index.m3u8?
 CCTV16,http://183.151.58.238:4022/rtp/233.50.201.192:5140
+CCTV16,http://183.151.58.238:4022/rtp/233.50.201.63:5140
 CCTV17,https://live.goodiptv.club/api/bestv.php?id=cctv17hd8m/8000000
 CCTV17,http://183.151.58.238:4022/rtp/233.50.201.35:5140
-CCTV16 4k,http://183.151.58.238:4022/rtp/233.50.201.63:5140
-湖南卫视,http://183.151.58.238:4022/rtp/233.50.201.103:5140
+CCTV5+,https://live.goodiptv.club/api/bestv.php?id=cctv5phd8m/8000000
+CCTV5+,http://39.134.24.166/dbiptv.sn.chinamobile.com/PLTV/88888888/224/3221225761/1.m3u8
+CCTV5+,http://39.134.24.162/dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221225761/index.m3u8
+CCTV5+,http://183.151.58.238:4022/rtp/233.50.201.220:5140
+CETV-1,http://111.59.63.32:9901/tsfile/live/1024_1.m3u8
 CGTN,http://183.151.58.238:4022/rtp/233.50.201.126:5140
 CGTN-西班牙语,http://183.151.58.238:4022/rtp/233.50.201.36:5140
 CGTN-法语,http://183.151.58.238:4022/rtp/233.50.201.37:5140
@@ -143,6 +142,8 @@ CGTN-俄语,http://183.151.58.238:4022/rtp/233.50.201.39:5140
 浙江卫视,https://live.goodiptv.club/api/bestv.php?id=zjwshd8m/8000000
 浙江卫视,http://live.aishang.ctlcdn.com/00000110240134_1/playlist.m3u8?CONTENTID=00000110240134_1&AUTHINFO=FABqh274XDn8fkurD5614t%2B1RvYajgx%2Ba3PxUJe1SMO4OjrtFitM6ZQbSJEFffaD35hOAhZdTXOrK0W8QvBRom%2BXaXZYzB%2FQfYjeYzGgKhP%2Fdo%2BXpr4quVxlkA%2BubKvbU1XwJFRgrbX%2BnTs60JauQUrav8kLj%2FPH8LxkDFpzvkq75UfeY%2FVNDZygRZLw4j%2BXtwhj%2FIuXf1hJAU0X%2BheT7g%3D%3D&USERTOKEN=eHKuwve%2F35NVIR5qsO5XsuB0O2BhR0KR
 浙江卫视,http://183.151.58.238:4022/rtp/233.50.201.100:5140
+浙江卫视,http://139.227.163.42:8001/rtp/239.45.3.178:5140
+浙江卫视,http://139.227.163.42:8001/rtp/239.45.1.26:5140
 重庆卫视,https://video.lzjtu.edu.cn/liverespath/b14734af7f740eb61419248c57e25551a7d1093f/index.m3u8
 重庆卫视,http://39.134.24.162/dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221225791/index.m3u8
 重庆卫视,http://live.aishang.ctlcdn.com/00000110240397_1/playlist.m3u8?CONTENTID=00000110240397_1&AUTHINFO=FABqh274XDn8fkurD5614t%2B1RvYajgx%2Ba3PxUJe1SMO4OjrtFitM6ZQbSJEFffaD35hOAhZdTXOrK0W8QvBRom%2BXaXZYzB%2FQfYjeYzGgKhP%2Fdo%2BXpr4quVxlkA%2BubKvbU1XwJFRgrbX%2BnTs60JauQUrav8kLj%2FPH8LxkDFpzvkq75UfeY%2FVNDZygRZLw4j%2BXtwhj%2FIuXf1hJAU0X%2BheT7g%3D%3D&USERTOKEN=eHKuwve%2F35NVIR5qsO5XsuB0O2BhR0KR
@@ -187,6 +188,7 @@ CGTN-俄语,http://183.151.58.238:4022/rtp/233.50.201.39:5140
 湖北卫视,http://183.151.58.238:4022/rtp/233.50.201.114:5140
 湖南卫视,https://video.lzjtu.edu.cn/liverespath/9b1ccba5a2c611bb5d7c96243695572090cca5fd/index.m3u8
 湖南卫视,http://live.aishang.ctlcdn.com/00000110240130_1/playlist.m3u8?CONTENTID=00000110240130_1&AUTHINFO=FABqh274XDn8fkurD5614t%2B1RvYajgx%2Ba3PxUJe1SMO4OjrtFitM6ZQbSJEFffaD35hOAhZdTXOrK0W8QvBRom%2BXaXZYzB%2FQfYjeYzGgKhP%2Fdo%2BXpr4quVxlkA%2BubKvbU1XwJFRgrbX%2BnTs60JauQUrav8kLj%2FPH8LxkDFpzvkq75UfeY%2FVNDZygRZLw4j%2BXtwhj%2FIuXf1hJAU0X%2BheT7g%3D%3D&USERTOKEN=eHKuwve%2F35NVIR5qsO5XsuB0O2BhR0KR
+湖南卫视,http://183.151.58.238:4022/rtp/233.50.201.103:5140
 天津卫视,https://video.lzjtu.edu.cn/liverespath/41433c450cf4747cf2600adecc560bc90f344182/index.m3u8
 天津卫视,http://39.134.24.162/dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221225765/index.m3u8
 天津卫视,https://live.goodiptv.club/api/bestv.php?id=tjwshd8m/8000000
@@ -289,7 +291,6 @@ CGTN-俄语,http://183.151.58.238:4022/rtp/233.50.201.39:5140
 RTHK32,https://rthktv32-live.akamaized.net/hls/live/2036819/RTHKTV32/stream2/streamPlaylist.m3u8
 凤凰卫视中文,http://183.151.58.238:4022/rtp/233.50.200.191:5140
 凤凰卫视资讯,http://183.151.58.238:4022/rtp/233.50.200.192:5140
-杭州2明珠,http://183.151.58.238:4022/rtp/233.50.201.174:5140
 
 🇨🇳｜宝岛,#genre#
 ANTV,http://antvlive.ab5c6921.cdnviet.com/antv/playlist.m3u8
@@ -361,6 +362,17 @@ GOODTV经典音乐河HD,https://dqhxk7sbp7xog.cloudfront.net/hls-live/goodtv/_de
 浙江国际,http://hw-m-l.cztv.com/channels/lantian/channel10/1080p.m3u8
 之江纪录,http://hw-m-l.cztv.com/channels/lantian/channel12/1080p.m3u8
 之江纪录,http://hw-m-l.cztv.com/channels/lantian/channel012/1080p.m3u8?zzhed
+之江记录,http://183.151.58.238:4022/rtp/233.50.202.25:5140
+钱江频道,http://183.151.58.238:4022/rtp/233.50.201.132:5140
+浙江教育,http://183.151.58.238:4022/rtp/233.50.201.134:5140
+浙江民生,http://183.151.58.238:4022/rtp/233.50.201.136:5140
+浙江news,http://183.151.58.238:4022/rtp/233.50.201.137:5140
+杭州1综合,http://183.151.58.238:4022/rtp/233.50.201.173:5140
+杭州2明珠,http://183.151.58.238:4022/rtp/233.50.201.174:5140
+杭州3生活,http://183.151.58.238:4022/rtp/233.50.201.175:5140
+杭州4影视,http://183.151.58.238:4022/rtp/233.50.201.176:5140
+杭州5青少,http://183.151.58.238:4022/rtp/233.50.201.177:5140
+杭州导视,http://183.151.58.238:4022/rtp/233.50.201.182:5140
 数码时代,http://hw-m-l.cztv.com/channels/lantian/channel12/360p.m3u8?zzhed
 绍兴新闻综合,http://live.shaoxing.com.cn/video/s10001-sxhb/index.m3u8?zzhed
 绍兴新闻综合,http://live.shaoxing.com.cn/video/s10001-sxtv1/index.m3u8?zzhed
@@ -410,14 +422,6 @@ GOODTV经典音乐河HD,https://dqhxk7sbp7xog.cloudfront.net/hls-live/goodtv/_de
 淳安电视台,https://wtmtyoutlive.watonemt.com/f2p7vq/lf76v9.m3u8?zzhed
 上虞新商都,http://l.cztvcloud.com/channels/lantian/SXshangyu3/720p.m3u8?zzhed
 海宁生活服务,http://live.hndachao.cn/shfw/sd/live.m3u8?zzhed
-钱江频道,http://183.151.58.238:4022/rtp/233.50.201.132:5140
-浙江教育,http://183.151.58.238:4022/rtp/233.50.201.134:5140
-浙江民生,http://183.151.58.238:4022/rtp/233.50.201.136:5140
-浙江news,http://183.151.58.238:4022/rtp/233.50.201.137:5140
-杭州1综合,http://183.151.58.238:4022/rtp/233.50.201.173:5140
-杭州3生活,http://183.151.58.238:4022/rtp/233.50.201.175:5140
-杭州4影视,http://183.151.58.238:4022/rtp/233.50.201.176:5140
-杭州5青少,http://183.151.58.238:4022/rtp/233.50.201.177:5140
 极速汽车,http://183.151.58.238:4022/rtp/233.50.201.208:5140
 宁波TV1,http://183.151.58.238:4022/rtp/233.50.201.168:5140
 宁波TV2,http://183.151.58.238:4022/rtp/233.50.201.178:5140
@@ -433,8 +437,6 @@ GOODTV经典音乐河HD,https://dqhxk7sbp7xog.cloudfront.net/hls-live/goodtv/_de
 丽水新闻,http://183.151.58.238:4022/rtp/233.50.201.162:5140
 嘉兴新闻,http://183.151.58.238:4022/rtp/233.50.201.163:5140
 桐乡新闻,http://183.151.58.238:4022/rtp/233.50.201.169:5140
-杭州导视,http://183.151.58.238:4022/rtp/233.50.201.182:5140
-之江记录,http://183.151.58.238:4022/rtp/233.50.202.25:5140
 优优宝贝,http://183.151.58.238:4022/rtp/233.50.202.24:5140
 法制天地,http://183.151.58.238:4022/rtp/233.50.201.191:5140
 动漫秀场,http://183.151.58.238:4022/rtp/233.50.201.184:5140
